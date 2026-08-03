@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0051-n-queens) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0051-n-queens) |
@@ -41,4 +43,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
