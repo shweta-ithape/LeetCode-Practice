@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1158-market-analysis-i](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/1158-market-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Bit Manipulation
 |  |
