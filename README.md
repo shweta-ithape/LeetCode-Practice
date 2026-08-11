@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0912-sort-an-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2596-check-knight-tour-configuration](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2596-check-knight-tour-configuration) |
+| [3193-count-the-number-of-inversions](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3193-count-the-number-of-inversions) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0473-matchsticks-to-square) |
+| [3193-count-the-number-of-inversions](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3193-count-the-number-of-inversions) |
 ## Prefix Sum
 |  |
 | ------- |
