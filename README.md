@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0473-matchsticks-to-square) |
 | [0912-sort-an-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0912-sort-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0473-matchsticks-to-square) |
