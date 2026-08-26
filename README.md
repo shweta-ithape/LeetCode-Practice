@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
