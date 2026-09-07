@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0043-multiply-strings](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [0131-palindrome-partitioning](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [2596-check-knight-tour-configuration](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2596-check-knight-tour-configuration) |
 ## Divide and Conquer
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
