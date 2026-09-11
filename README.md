@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2596-check-knight-tour-configuration](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2596-check-knight-tour-configuration) |
 | [3193-count-the-number-of-inversions](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3193-count-the-number-of-inversions) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0037-sudoku-solver) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
@@ -167,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
