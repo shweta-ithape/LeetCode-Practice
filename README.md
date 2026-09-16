@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0876-middle-of-the-linked-list](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Manacher
 |  |
 | ------- |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
