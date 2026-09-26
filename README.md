@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
