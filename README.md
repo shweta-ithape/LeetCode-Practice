@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Greedy
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
