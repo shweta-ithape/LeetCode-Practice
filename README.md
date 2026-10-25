@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0473-matchsticks-to-square) |
 | [0912-sort-an-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0912-sort-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2596-check-knight-tour-configuration](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
