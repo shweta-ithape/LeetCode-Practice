@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
+| [0217-contains-duplicate](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0410-split-array-largest-sum](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0473-matchsticks-to-square) |
 | [0912-sort-an-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0912-sort-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
