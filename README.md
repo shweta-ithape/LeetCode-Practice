@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0473-matchsticks-to-square) |
 | [0912-sort-an-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0912-sort-an-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Manacher
 |  |
