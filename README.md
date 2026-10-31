@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
+| [0189-rotate-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0043-multiply-strings) |
+| [0189-rotate-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3870-count-commas-in-range) |
