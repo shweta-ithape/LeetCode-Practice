@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0473-matchsticks-to-square](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0473-matchsticks-to-square) |
 | [0912-sort-an-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3870-count-commas-in-range) |
