@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0473-matchsticks-to-square](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0473-matchsticks-to-square) |
+| [0682-baseball-game](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0043-multiply-strings) |
+| [0682-baseball-game](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [2596-check-knight-tour-configuration](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2596-check-knight-tour-configuration) |
 ## Divide and Conquer
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
