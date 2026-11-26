@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/2596-check-knight-tour-configuration) |
+| [3360-stone-removal-game](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3360-stone-removal-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
+| [3360-stone-removal-game](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shweta-ithape/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
